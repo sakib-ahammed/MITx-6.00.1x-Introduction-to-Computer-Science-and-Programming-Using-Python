@@ -1,0 +1,26 @@
+For each of the following questions, answer True or False:
+PROBLEM 1-1  (1 point possible)
+Guess-and-check is one method that proves the correctness of an algorithm.
+
+True True - incorrect False
+You have used 1 of 1 submissions
+PROBLEM 1-2  (1/1 point)
+Any program that can be implemented iteratively can also be implemented recursively.
+
+True True - correct False
+You have used 1 of 1 submissions
+PROBLEM 1-3  (1/1 point)
+The complexity of binary search on a sorted list of n items is O(logn).
+
+True True - correct False
+You have used 1 of 1 submissions
+PROBLEM 1-4  (1/1 point)
+All O(1) functions take exactly the same amount of time to run.
+
+True False False - correct
+You have used 1 of 1 submissions
+PROBLEM 1-5  (1 point possible)
+The class object is a subclass of the class list.
+
+True True - incorrect False
+You have used 1 of 1 submissions

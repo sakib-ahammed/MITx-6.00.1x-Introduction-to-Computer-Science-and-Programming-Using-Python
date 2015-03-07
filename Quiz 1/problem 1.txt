@@ -1,0 +1,62 @@
+PROBLEM 1-1  (1/1 point)
+For each of the following questions, answer True or False:
+
+After a mutable object has been created, its value can change.
+
+
+True <span>True </span> - correct False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-2  (1/1 point)
+A program that keeps running and does not stop is an example of a syntax error.
+
+
+True False <span>False </span> - correct
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-3  (1/1 point)
+Given two Python programs that produce the same output for the same input, the program with fewer lines of code always executes faster.
+
+
+True False <span>False </span> - correct
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-4  (1/1 point)
+A tuple can contain a list as an element.
+
+
+True <span>True </span> - correct False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-5  (1/1 point)
+If we define myDict = {}, then myDict[('a', 'b')] = 'foo' is a legal Python expression.
+
+
+True <span>True </span> - correct False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-6  (1/1 point)
+If we define myDict = {}, then myDict[['a', 'b']] = 'foo' is a legal Python expression.
+
+
+True False <span>False </span> - correct
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-7  (1 point possible)
+Integration testing should usually be done before unit testing.
+
+
+True <span>True </span> - incorrect False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-8  (1 point possible)
+Any number that can be represented as a decimal fraction can be represented exactly in floating point representation in Python.
+
+
+True <span>True </span> - incorrect False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-9  (1/1 point)
+The body of a while loop can contain at most one "break" statement and at most one "pass" statement.
+
+
+True False <span>False </span> - correct
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-10  (1/1 point)
+A recursive algorithm must always have a base case.
+
+
+True <span>True </span> - correct False
+Show Answer Reveal Answer You have used 1 of 1 submissions

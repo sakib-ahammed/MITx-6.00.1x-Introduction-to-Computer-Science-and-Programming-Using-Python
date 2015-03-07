@@ -1,0 +1,30 @@
+PROBLEM 2-1  (1/1 point)
+Examine the following code and answer the following question without running it.
+
+x = [2,1]
+y = [2,1]
+z = False
+if x == y:
+    if sorted(x) == sorted(y):
+         if x.sort() == y.sort():
+               z =  x.sort() == sorted(y)
+print z
+The preceding Python statements will print False because
+
+x is not equal to y sorted(x) is not equal to sorted(y) x.sort() is not equal to y.sort() x.sort() is not equal to sorted(y) <span><code>x.sort()</code> is not equal to <code>sorted(y)</code></span> - correct
+You have used 1 of 1 submissions
+PROBLEM 2-2  (1 point possible)
+Pick the word below that best matches this item: generator
+
+Iteration Assertion Divide-and-conquer O(n) Attribute Attribute - incorrect
+You have used 1 of 1 submissions
+PROBLEM 2-3  (1/1 point)
+Pick the word below that best matches this item: exception
+
+Iteration Flow of control Flow of control - correct Divide-and-conquer O(1) Attribute
+You have used 1 of 1 submissions
+PROBLEM 2-4  (1/1 point)
+Pick the word below that best matches this item: self.title from the Problem Set 7 NewsStory class
+
+Iteration Flow of control Divide-and-conquer Time complexity Attribute Attribute - correct
+You have used 1 of 1 submissions

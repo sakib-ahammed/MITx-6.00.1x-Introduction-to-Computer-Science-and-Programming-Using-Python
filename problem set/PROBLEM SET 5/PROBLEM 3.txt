@@ -1,0 +1,37 @@
+PROBLEM 3  (10/10 points)
+For each of the following expressions, select the order of growth class that best describes it from the following list: O(1),O(log(n)),O(n),O(nlog(n)),O(nc) or O(cn). Assume c is some constant.
+
+Clicking Check will grade ALL the sub-problems. You have 2 attempts for this problem.
+
+0.0000001n+1000000
+
+ O(n) - correct
+0.0001n2+20000n−90000
+
+ O(n^c) - correct
+20n+900log(n)+100000
+
+ O(n) - correct
+(log(n))2+5n7
+
+ O(n^c) - correct
+n200−2n30
+
+ O(n^c) - correct
+30n2+nlog(n)
+
+ O(n^c) - correct
+nlog(n)−3000n
+
+ O(n log(n)) - correct
+3
+
+ O(1) - correct
+5n+n5+n+5
+
+ O(c^n) - correct
+nlog(n)+n2+n+logn+1+2n
+
+ O(c^n) - correct
+Show Answer Reveal Answer You have used 1 of 2 submissions
+Show Discussion

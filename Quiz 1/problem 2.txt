@@ -1,0 +1,30 @@
+PROBLEM 2-1  (1/1 point)
+Choose the item from the list of potential responses that best matches: specification
+
+abstraction abstraction - correct mutation indentation induction
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 2-2  (1/1 point)
+Choose the item from the list of potential responses that best matches: return
+
+keyword keyword - correct unit testing induction mutation
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 2-3  (1/1 point)
+Choose the item from the list of potential responses that best matches: recursion
+
+lexical scoping abstraction glass box testing induction induction - correct
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 2-4  (1/1 point)
+Choose the item from the list of potential responses that best matches: successive approximation
+
+indentation Newton's method Newton's method - correct syntax checking cloning
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 2-5  (1/1 point)
+Choose the item from the list of potential responses that best matches: [:]
+
+keyword mutation cloning cloning - correct black box testing
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 2-6  (1/1 point)
+Choose the item from the list of potential responses that best matches: paths through code
+
+glass box testing glass box testing - correct black box testing indentation syntax checking
+Show Answer Reveal Answer You have used 1 of 1 submissions

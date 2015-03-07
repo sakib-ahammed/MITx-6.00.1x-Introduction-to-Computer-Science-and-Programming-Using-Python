@@ -1,0 +1,26 @@
+PROBLEM 1-1  (1 point possible)
+The ONLY thing we are interested in when designing programs is that it returns the correct answer.
+
+True True - incorrect False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-2  (1 point possible)
+Roughly speaking, under the RAM model of computation, adding two numbers takes the same amount of time as dividing them.
+
+True False False - incorrect
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-3  (1/1 point)
+When determining asymptotic complexity, we discard all terms except for the one with the largest growth rate.
+
+True True - correct False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-4  (1 point possible)
+Bisection search is an example of linear time complexity
+
+True True - incorrect False
+Show Answer Reveal Answer You have used 1 of 1 submissions
+PROBLEM 1-5  (1 point possible)
+For large values of n, an algorithm that takes 20000n^2 steps has better time complexity (takes less time) than one that takes 0.001n^5 steps
+
+True False False - incorrect
+Show Answer Reveal Answer You have used 1 of 1 submissions
+Show Discussion

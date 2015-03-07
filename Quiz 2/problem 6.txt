@@ -1,0 +1,50 @@
+In this problem, we'll use the general term "cousin" as follows:
+
+zeroth cousin: If two nodes are siblings (have the same immediately preceding ancestor, such as nodes "H" and "I") they are zeroth cousins.
+first cousin: Children of zeroth cousins are first cousins.
+second cousin: Grandchildren of zeroth cousins are second cousins.
+In general, i'th cousins have a grandparent or ancestor that is i levels up from their parents.
+PROBLEM 6-1  (1/1 point)
+Match the pair with its definition:
+
+"D" and "G"
+
+zeroth cousin first cousin <span>first cousin</span> - correct second cousin third cousin
+You have used 1 of 1 submissions
+PROBLEM 6-2  (1 point possible)
+Match the pair with its definition:
+
+"B" and "C"
+
+zeroth cousin first cousin second cousin <span>second cousin</span> - incorrect third cousin
+You have used 1 of 1 submissions
+PROBLEM 6-3  (1/1 point)
+Match the pair with its definition:
+
+"I" and "Q"
+
+zeroth cousin first cousin second cousin <span>second cousin</span> - correct third cousin
+You have used 1 of 1 submissions
+Suppose two people, P1 and P2, are i'th cousins. Let C1 be a child of P1 and C2 be a child of P2. Then, C1 is an i'th cousin of P2, 1 removed, and C2 is an i'th cousin of P1, 1 removed.
+
+Let G1 now be a child of C1. G1 is an i'th cousin of P2, 2 removed.
+
+In general, the type of cousin (what 'i' is) is the shorter distance to the ancestor of two people, and the amount removed is the difference between the distance to the common ancestor.
+
+Using this above definition for the next 3 problems, match the pairs with their relationship:
+
+PROBLEM 6-4  (1 point possible)
+"D" and "G"
+
+first cousin 0 removed first cousin 2 removed <text>first cousin 2 removed</text> - incorrect second cousin 1 removed
+You have used 1 of 1 submissions
+PROBLEM 6-5  (1 point possible)
+"D" and "M"
+
+second cousin 0 removed zeroth cousin 2 removed <text>zeroth cousin 2 removed</text> - incorrect first cousin 1 removed
+You have used 1 of 1 submissions
+PROBLEM 6-6  (1 point possible)
+"B" and "L"
+
+second cousin 0 removed zeroth cousin 2 removed second cousin 1 removed <text>second cousin 1 removed</text> - incorrect
+You have used 1 of 1 submissions
